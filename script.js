@@ -7,3 +7,5 @@ Attention bronchite ajoutée
 
 =======
 >>>>>>> bronchite
+
+Une bronchite qui s'est transformée en rhume malheureusementx
