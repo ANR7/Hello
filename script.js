@@ -1,6 +1,6 @@
 
 var hello = "hello world!"
-alerte (hello world)
+alerte (Bonjour)
 <<<<<<< HEAD
 
 Attention bronchite ajoutée
